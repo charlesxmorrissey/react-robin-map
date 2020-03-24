@@ -1,0 +1,189 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0.5 -713.3 1200 800"
+  class="map map--2"
+  width="100%"
+  height="100%"
+  preserveAspectRatio="xMidYMid meet">
+  <path class="map__background" d="M1111.061-552.883H636.09v-127.749h-48.519V-713.3H21.073v63.513h179.253v405.064H9.901v90.567h190.425v78.559h288.339V28.569h91.966v24.017h109.713V-77.719h420.717l.008 164.419h80.03v-800h-80.037z"/>
+
+  <path id="51335" class="map__space" d="M250.963-708.67h228.781v79.012H250.963z"/>
+
+  <path class="map__area" d="M525.799-627.343h57.147v22.666h-57.147z"/>
+  <path class="map__area" d="M525.799-602.362h57.147v22.666h-57.147z"/>
+  <path class="map__area" d="M525.799-577.382h57.147v22.666h-57.147z"/>
+  <path class="map__area" d="M585.261-619.723h46.489v49.334h-46.489z"/>
+
+  <path id="51322" class="map__space" d="M642.987-548.254h41.57v47.02h-41.57z"/>
+  <path id="51323" class="map__space" d="M686.872-548.254h47.309v47.02h-47.309z"/>
+  <path id="51354" class="map__space" d="M736.495-548.254h47.309v47.02h-47.309z"/>
+  <path id="51351" class="map__space" d="M786.119-548.254h44.126v47.02h-44.126z"/>
+  <path id="51334" class="map__space" d="M832.56-548.254h42.39v47.02h-42.39z"/>
+
+  <path class="map__area" d="M585.261-676.002h46.489v53.964h-46.489z"/>
+
+  <path id="51350" class="map__space" d="M204.956-550.568h43.692v42.824h-43.692z"/>
+  <path id="51349" class="map__space" d="M250.963-550.568h43.692v42.824h-43.692z"/>
+  <path id="51324" class="map__space" d="M204.956-396.199h43.692v39.641h-43.692z"/>
+  <path id="51342" class="map__space" d="M250.963-396.199h43.692v39.641h-43.692z"/>
+  <path id="51314" class="map__space" d="M204.956-505.43h89.699v56.134h-89.699z"/>
+  <path id="51352" class="map__space" d="M204.956-446.98h89.699v48.466h-89.699z"/>
+  <path id="51353" class="map__space" d="M204.956-319.666h89.699v38.628h-89.699z"/>
+  <path id="51304" class="map__space" d="M204.956-278.722h89.699v38.628h-89.699z"/>
+  <path id="51326" class="map__space" d="M204.956-208.265h43.692v49.479h-43.692z"/>
+  <path id="51316" class="map__space" d="M204.956-122.472h46.007v42.245h-46.007z"/>
+  <path id="51315" class="map__space" d="M346.594-122.472h47.454v42.245h-47.454z"/>
+  <path id="51312" class="map__space" d="M250.963-208.265h43.692v49.479h-43.692z"/>
+  <path id="51305" class="map__space" d="M14.53-240.094h63.834v81.308H14.53z"/>
+
+  <path class="map__location" d="M346.594-392.004h133.15v155.671h-133.15z"/>
+  <path class="map__location" d="M680.699-392.004h127.556v155.671H680.699z"/>
+
+  <path class="map__area" d="M346.594-234.017h50.781v75.231h-50.781z"/>
+
+  <path class="map__location" d="M399.69-234.017h67.274v75.231H399.69z"/>
+  <path class="map__location" d="M469.279-234.017h56.52v75.231h-56.52z"/>
+
+  <path class="map__area" d="M528.114-234.017h58.787v75.231h-58.787z"/>
+  <path class="map__area" d="M589.215-234.017h44.56v75.231h-44.56z"/>
+
+  <path id="51331" class="map__space" d="M636.09-234.017h49.624v75.231H636.09z"/>
+  <path id="51301" class="map__space" d="M493.295-122.328h89.651v42.101h-89.651z"/>
+  <path id="51299" class="map__space" d="M493.295-77.912h89.651v51.215h-89.651z"/>
+  <path id="51310" class="map__space" d="M585.261-77.912h100.453v41.233H585.261z"/>
+  <path id="51303" class="map__space" d="M633.775-34.365h51.939v82.321h-51.939z"/>
+  <path id="51300" class="map__space" d="M493.295-24.382h89.651V23.94h-89.651z"/>
+
+  <path class="map__location" d="M585.261-122.328h48.515v42.101h-48.515z"/>
+
+  <path id="50883" class="map__space" d="M1115.691-708.67h70.779v41.493h-70.779z"/>
+  <path id="50884" class="map__space" d="M1115.691-664.862h70.779v91.146h-70.779z"/>
+  <path id="51336" class="map__space" d="M1084.103-542.659h102.366v148.341h-102.366z"/>
+
+  <path class="map__area" d="M585.261-34.365h46.489v15.191h-46.489z"/>
+  <path class="map__area" d="M585.261-122.328h48.515v42.101h-48.515z"/>
+  <path class="map__area" d="M585.261 33.199h46.489v14.757h-46.489z"/>
+  <path class="map__area" d="M585.261-16.859h22.087v47.743h-22.087z"/>
+  <path class="map__area" d="M609.663-16.859h22.087v47.743h-22.087z"/>
+
+  <path id="51499" class="map__space" d="M688.029-209.278h30.816v24.161h-30.816z"/>
+  <path id="51311" class="map__space" d="M721.16-209.278h62.355v24.161H721.16z"/>
+  <path id="51339" class="map__space" d="M785.83-209.278h48.466v50.492H785.83z"/>
+  <path id="51340" class="map__space" d="M836.611-209.278h48.466v50.492h-48.466z"/>
+  <path id="51321" class="map__space" d="M929.638-196.402h52.951v37.616h-52.951z"/>
+  <path id="51332" class="map__space" d="M984.904-196.402h59.462v37.616h-59.462z"/>
+  <path id="51356" class="map__space" d="M929.638-234.017h52.951v35.301h-52.951z"/>
+  <path id="51320" class="map__space" d="M984.904-234.017h59.462v35.301h-59.462z"/>
+  <path id="51343" class="map__space" d="M721.16-182.802h62.355v24.161H721.16z"/>
+  <path id="51498" class="map__space" d="M688.029-182.802h30.816v24.161h-30.816z"/>
+  <path id="51348" class="map__space" d="M1084.103-356.558h43.017v42.39h-43.017z"/>
+
+  <path class="map__area" d="M1129.435-356.558h57.035v42.39h-57.035z"/>
+
+  <path id="51337" class="map__space" d="M1084.103-311.853h102.366v153.067h-102.366z"/>
+  <path id="51338" class="map__space" d="M1115.691-156.471h70.779v76.244h-70.779z"/>
+  <path id="51309" class="map__space" d="M1115.691-77.912h70.779v53.53h-70.779z"/>
+  <path id="51308" class="map__space" d="M1115.691-22.067h70.779v59.172h-70.779z"/>
+  <path id="51319" class="map__space" d="M1115.691 39.42h70.779v42.65h-70.779z"/>
+  <path id="51317" class="map__space" d="M984.904-548.254h59.462v76.1h-59.462z"/>
+  <path id="51318" class="map__space" d="M984.904-469.839h59.462v75.521h-59.462z"/>
+  <path id="51330" class="map__space" d="M929.638-548.254h52.951v50.492h-52.951z"/>
+  <path id="51347" class="map__space" d="M948.735-495.447h33.854v49.334h-33.854z"/>
+  <path id="51346" class="map__space" d="M948.735-443.798h33.854v49.334h-33.854z"/>
+
+  <path class="map__area" d="M1084.103-392.004h102.366v33.131h-102.366z"/>
+
+  <path id="51329" class="map__space" d="M785.83-443.798h50.781v49.334H785.83z"/>
+
+  <path class="map__location" d="M710.526-475.626h72.989v81.163h-72.989z"/>
+  <path class="map__location" d="M636.09-475.626h72.121v81.163H636.09z"/>
+
+  <path class="map__area" d="M585.261-475.626h48.515v81.163h-48.515z"/>
+  <path class="map__area" d="M389.466-475.626h45.332v81.163h-45.332z"/>
+
+  <path class="map__location" d="M437.113-475.626h145.833v81.163H437.113z"/>
+
+  <path id="51327" class="map__space" d="M838.926-443.798h53.53v49.334h-53.53z"/>
+  <path id="68162" class="map__space" d="M482.059-708.67h100.887v79.012H482.059z"/>
+
+  <path class="map__area" d="M25.703-708.67v12.731h2.314v-10.417H60.28v10.417h2.315v-12.731z"/>
+  <path class="map__area" d="M30.332-704.041H38v8.102h-7.668z"/>
+  <path class="map__area" d="M40.315-704.041h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M50.297-704.041h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M67.224-708.67v12.731h2.315v-10.417h32.263v10.417h2.315v-12.731z"/>
+  <path class="map__area" d="M71.854-704.041h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M81.837-704.041h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M91.819-704.041h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M171.681-708.67v12.731h2.314v-10.417h32.263v10.417h2.315v-12.731z"/>
+  <path class="map__area" d="M176.31-704.041h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M186.293-704.041h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M196.275-704.041h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M149.834-654.417h12.732v-2.315h-10.417v-32.262h10.417v-2.315h-12.732z"/>
+  <path class="map__area" d="M154.464-666.714h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M154.464-676.697h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M154.464-686.68h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M357.01-567.785h-12.731v-2.315h10.417v-32.262h-10.417v-2.315h12.731z"/>
+  <path class="map__area" d="M344.279-580.082h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M344.279-590.065h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M344.279-600.048h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M879.58-501.234h12.731v-2.315h-10.416v-32.262h10.416v-2.315H879.58z"/>
+  <path class="map__area" d="M884.21-513.531h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M884.21-523.514h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M884.21-533.497h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M438.897-604.677v12.731h-2.315v-10.416h-32.263v10.416h-2.314v-12.731z"/>
+  <path class="map__area" d="M426.6-600.048h7.668v8.102H426.6z"/>
+  <path class="map__area" d="M416.617-600.048h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M406.634-600.048h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M786.119-450.814v-12.732h2.315v10.417h32.263v-10.417h2.315v12.732z"/>
+  <path class="map__area" d="M790.749-463.546h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M800.732-463.546h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M810.714-463.546h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M966.458-316.483v-12.731h2.315v10.416h32.262v-10.416h2.315v12.731z"/>
+  <path class="map__area" d="M971.087-329.214h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M981.07-329.214h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M991.053-329.214h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M966.458-242.843v-12.731h2.315v10.417h32.262v-10.417h2.315v12.731z"/>
+  <path class="map__area" d="M971.087-255.574h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M988.738-247.472v-8.102h-7.668v8.102h7.668"/>
+  <path class="map__area" d="M991.053-255.574h7.668v8.102h-7.668z"/>
+
+  <path class="map__location" d="M525.799-520.91v-15.046h2.315v12.731h39.689v-12.731h2.315v15.046z"/>
+  <path class="map__location" d="M530.429-530.169h35.06v4.63h-35.06z"/>
+
+  <path class="map__area" d="M887.971-82.349V-95.08h2.315v10.416h32.263V-95.08h2.314v12.731z"/>
+  <path class="map__area" d="M892.601-95.08h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M902.583-95.08h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M912.566-95.08h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M636.09-119.097h12.732v2.315h-10.417v32.263h10.417v2.315H636.09z"/>
+  <path class="map__area" d="M640.72-114.467h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M640.72-104.484h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M640.72-94.502h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M256.75-119.097h12.731v2.315h-10.416v32.263h10.416v2.315H256.75z"/>
+  <path class="map__area" d="M261.38-114.467h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M261.38-104.484h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M261.38-94.502h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M945.552-372.255h12.732v2.315h-10.417v32.262h10.417v2.315h-12.732z"/>
+  <path class="map__area" d="M950.182-367.626h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M950.182-357.643h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M950.182-347.66h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M1024.256-372.255h-12.732v2.315h10.417v32.262h-10.417v2.315h12.732z"/>
+  <path class="map__area" d="M1011.524-367.626h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M1011.524-357.643h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M1011.524-347.66h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M945.552-259.553h12.732v-2.315h-10.417v-32.262h10.417v-2.315h-12.732z"/>
+  <path class="map__area" d="M950.182-271.85h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M950.182-281.833h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M950.182-291.815h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M1024.256-259.553h-12.732v-2.315h10.417v-32.262h-10.417v-2.315h12.732z"/>
+  <path class="map__area" d="M1011.524-271.85h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M1011.524-281.833h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M1011.524-291.815h8.102v7.668h-8.102z"/>
+  <path class="map__area" d="M25.703-659.191v-12.732h2.314v10.417H60.28v-10.417h2.315v12.732z"/>
+  <path class="map__area" d="M30.332-671.923H38v8.102h-7.668z"/>
+  <path class="map__area" d="M40.315-671.923h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M50.297-671.923h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M67.224-659.191v-12.732h2.315v10.417h32.263v-10.417h2.315v12.732z"/>
+  <path class="map__area" d="M71.854-671.923h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M81.837-671.923h7.668v8.102h-7.668z"/>
+  <path class="map__area" d="M91.819-671.923h7.668v8.102h-7.668z"/>
+</svg>

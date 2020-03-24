@@ -1,0 +1,46 @@
+.searchOpenBtn {
+  background: var(--color-btn-bg-dark);
+  display: none;
+
+  @media screen and (max-width: 65.625em), screen and (max-height: 40.625em) {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+  }
+}
+
+.navigationIcon {
+  display: block;
+  fill: currentColor;
+  height: 1em;
+  margin: 0 auto;
+  width: 1em;
+}
+
+.navigation {
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  transition: opacity var(--duration-medium-transition);
+
+  @media screen and (max-width: 65.625em), screen and (max-height: 40.625em) {
+    top: 4em;
+  }
+}
+
+.navigationHidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.navigationDownIcon {
+  margin-top: 7px;
+  transform: rotate(-180deg);
+}
+
+.navigationStackBtn {
+  background: var(--color-btn-bg-dark);
+}

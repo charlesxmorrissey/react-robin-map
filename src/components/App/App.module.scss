@@ -1,0 +1,31 @@
+.app {
+  height: 100vh;
+  position: relative;
+  width: 100vw;
+}
+
+.appMain {
+  height: 100vh;
+  overflow: hidden;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: calc(100vw - 300px);
+
+  @media screen and (max-width: 65.625em), screen and (max-height: 40.625em) {
+    width: 100vw;
+  }
+}
+
+.appStage {
+  height: 100%;
+  pointer-events: none;
+  position: relative;
+  transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
+  transition: transform var(--duration-medium-transition);
+  width: 100%;
+}
+
+.appStageContentOpen {
+  transform: translate3d(0, -25%, 0) scale3d(0.8, 0.8, 1);
+}

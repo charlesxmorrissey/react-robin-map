@@ -1,0 +1,34 @@
+/*
+ * Base Variables
+ * ======================================================================== */
+
+:root {
+  /*
+   * Base Colors
+   * ====================================================================== */
+
+  --color-black: #000;
+  --color-white: #fff;
+  --color-light-gray: #bcbcbc;
+  --color-lighter-gray: #f0f0f0;
+  --color-search-bg: rgba(0, 0, 0, 0.9);
+  --color-btn-bg: #d7d7dc;
+  --color-btn-bg-dark: #c4c4c7;
+  --color-btn-bg-darker: hsl(240, 3%, 18%);
+  --color-gray: #808080;
+  --color-dark-gray: #171717;
+  --color-mid-gray: #3a3a3a;
+  --color-light-gray: #888;
+  --color-magenta: #ec008c;
+  --color-magenta-alt: #a93dd9;
+  --color-overlay-bg: rgba(0, 0, 0, 0.9);
+  --color-map-background: #222;
+
+  /*
+   * Base Transition Durations
+   * ====================================================================== */
+
+  --duration-default-transition: 0.3s;
+  --duration-medium-transition: 0.8s;
+  --duration-slow-transition: 1s;
+}

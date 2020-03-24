@@ -1,0 +1,62 @@
+.levels {
+  height: 64vmin;
+  left: 50%;
+  margin: -27vmin 0 0 -48vmin;
+  position: absolute;
+  top: 50%;
+  width: 96vmin;
+}
+
+// Level Item
+.levelItem {
+  height: 100%;
+  position: relative;
+  width: 100%;
+
+  &:not(:first-child) {
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+}
+
+// Level Item transitions
+.enter {
+  opacity: 0;
+}
+
+.exit,
+.enterActive {
+  opacity: 1;
+  transition: opacity var(--duration-default-transition);
+}
+
+.exitActive {
+  opacity: 0;
+  transition: opacity var(--duration-default-transition);
+}
+
+// Street Level
+.streetLevel {
+  fill: var(--color-light-gray);
+  height: 128vmin; // double of map
+  left: 50%;
+  margin: -64vmin 0 0 -96vmin;
+  pointer-events: none;
+  position: absolute;
+  top: 50%;
+  transform-style: preserve-3d;
+  transform: rotateX(70deg) rotateZ(-45deg) translateZ(-15vmin);
+  transition: opacity var(--duration-medium-transition);
+  width: 192vmin;
+}
+
+.streetLevelHidden {
+  opacity: 0;
+}
+
+.streetLevelMap {
+  display: block;
+  max-width: 100%;
+  opacity: 0.3;
+}

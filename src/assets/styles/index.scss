@@ -1,0 +1,62 @@
+@import-normalize;
+@import 'variables';
+@import 'fonts';
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--color-btn-bg-darker);
+  font-family: 'Avant Garde';
+  margin: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+}
+
+button,
+input {
+  line-height: normal;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+button {
+  background: var(--color-btn-bg);
+  border: 0;
+  color: var(--color-white);
+  cursor: pointer;
+  display: block;
+  font-size: 2em;
+  height: 2em;
+  margin: 0;
+  padding: 0;
+  width: 2em;
+}
+
+a:hover,
+button:hover {
+  color: var(--color-search-bg);
+}
+
+::placeholder {
+  line-height: 1;
+}
